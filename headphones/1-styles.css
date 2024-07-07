@@ -1,0 +1,36 @@
+.section{
+  color:black;
+  text-align: center;
+}
+.wedo{
+  font-size: 16px;
+  
+  
+}
+.wedo h2{
+  font-family: sans-serif;
+  margin-top: 60px;
+  font-size: 35px;
+}
+.wedo p{
+ height: 9rem;
+ margin-top: 50px;
+ text-align: center;
+}
+.imgs{
+  display:flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 8px 13px;
+  
+}
+.images{
+  text-align: center;
+  padding: 8px;
+  margin-top: 40px;
+}
+.images p{
+  margin: 10px;
+}
+

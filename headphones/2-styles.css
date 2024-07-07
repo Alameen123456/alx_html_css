@@ -1,0 +1,38 @@
+
+.mid{
+  min-height: 100vh;
+  width: 100%;
+  background: url(mid.jpg) no-repeat;
+  background-size: cover;
+
+  position: relative;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.para{
+  margin-top: 20px;
+}
+.para{
+  text-align: center;
+  color: #fff;
+}  
+.para h1{
+  font-size:  65px;
+
+}
+.para p{
+  font-size: 12px;
+ margin: 13px 0 68px;
+  font-size: 14px;
+  color: #fff;
+}
+.pent{
+  display: inline;
+  align-items: center;
+  justify-content: space-between;
+  padding: 60px;
+}
+
